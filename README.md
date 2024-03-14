@@ -67,14 +67,14 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/35941858-10b9-42e9-8806-14bae87f3a05)
-![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/f5da4608-5fc2-4c3c-b93d-aeb73230ae5b)
+![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/cb9ad1e8-361b-46b2-b49a-d07543e079da)
 ![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/592c182a-f29c-4618-a31e-1dd2c508a0be)
 
  Developed by:swathi.s
  RegisterNumber: 212223040219
  
 **Logic symbol & Truthtable**
-![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/cf474a6b-237b-43cc-a6fd-1f57c17e300b)
+![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/7f4369e4-de8e-4d66-94c0-be2c659b84f1)
 ![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/f77fb20a-eec0-4a51-b822-6256639c00ee)
 ![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/84d50958-2264-4a2a-a57e-699214768e46)
 ![image](https://github.com/swathisiva212/study-of-basic-gates/assets/155249892/2228b30c-9b7f-4741-adad-8a22fdb437e4)
